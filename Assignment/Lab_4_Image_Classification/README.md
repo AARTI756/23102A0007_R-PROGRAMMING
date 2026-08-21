@@ -40,7 +40,6 @@ The following steps were performed:
 
 ### Model
 
-```text
 2352 Input Features
         ↓
 Dense(256, ReLU)
