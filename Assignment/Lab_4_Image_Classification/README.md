@@ -59,13 +59,12 @@ Predicted 0 1
         0 1 0
         1 0 1
 Files
-- R_Image_Classification.ipynb – Google Colab implementation
+- image_classification_with_r.ipynb – Google Colab implementation
 - image_classification.R – R source code
 - images.zip – Dataset
 - confusion_matrix.csv – Confusion matrix result
 - image_classification_model.rds – Saved model
 - training_history.rds – Training history
-- confusion_matrix.png – Execution screenshot
 
 Conclusion
 The image classification implementation was successfully completed in R. The model correctly classified both test images in the provided dataset.
